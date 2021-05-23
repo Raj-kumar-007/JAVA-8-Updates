@@ -1,2 +1,4 @@
-package API;public class APIController {
+package API;
+
+public class APIController {
 }
